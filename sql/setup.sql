@@ -6,5 +6,5 @@ CREATE TABLE orders (
   name_last VARCHAR(512) NOT NULL,
   email VARCHAR(256) NOT NULL,
   username VARCHAR(512) NOT NULL,
-  pass VARCHAR(512) NOT NULL,
+  pass VARCHAR(512) NOT NULL
 )
